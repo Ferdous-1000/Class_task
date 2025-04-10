@@ -1,0 +1,1 @@
+name ,age ,email,fav lang,dropdown,gender radio pass-digit,special char, alphabate
